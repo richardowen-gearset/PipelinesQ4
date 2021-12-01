@@ -103,6 +103,11 @@
     <custom>true</custom>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Case.Contact_region__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Account.Pre_call_info__c</field>
         <readable>true</readable>
     </fieldPermissions>

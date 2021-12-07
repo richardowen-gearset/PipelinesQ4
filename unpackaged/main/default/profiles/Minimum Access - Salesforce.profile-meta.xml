@@ -103,6 +103,11 @@
     <custom>false</custom>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Account.Test_UAT_Fix__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Account.Main_competitor__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -148,6 +153,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Opportunity.Competitors__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Opportunity.Customer_Address__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -163,7 +173,7 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Opportunity.Competitors__c</field>
+        <field>Opportunity.Pre_call_info__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>

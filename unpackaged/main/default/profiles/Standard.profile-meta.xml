@@ -113,6 +113,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Account.Sandbox_account__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Account.Test_UAT_Fix__c</field>
         <readable>true</readable>
     </fieldPermissions>
